@@ -1,4 +1,4 @@
 # CALCULADORA
 
 ## O QUE SERA FEITO
-nESSE PROJETO 
+nESSE PROJETO será desenvolvido uma caluculadora.
